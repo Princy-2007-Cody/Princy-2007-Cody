@@ -1,5 +1,4 @@
 ## Hi there 👋
-[![Build Status](https://github.com/octocat/Hello-World/actions/workflows/main.yml/badge.svg)](https://github.com/octocat/Hello-World/actions)
 <!--
 **Princy-2007-Cody/Princy-2007-Cody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
