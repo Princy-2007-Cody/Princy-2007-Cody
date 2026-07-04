@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+<!--
 <div align="center">
 
 <img src="./banner.svg" width="100%" alt="Prince — AI/ML Developer, Satellite Data & Precision Agriculture"/>
