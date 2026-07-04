@@ -4,14 +4,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on leetcode
 - 🌱 I’m currently learning WEB DEVELOPMENT / C++
 - 👯 I’m looking to collaborate on GITHUB
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about Anything you like to ask
+- 📫 How to reach me: On my Instagram account
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am a Childish Gen-Z Developer
 
 
 ## 🌐 Socials:
