@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--**Princy-2007-Cody/Princy-2007-Cody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile-->
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on leetcode
@@ -32,90 +32,57 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
+
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/banner.png" width="100%" alt="banner" />
+<img src="./banner.svg" width="100%" alt="Prince — AI/ML Developer, Satellite Data & Precision Agriculture"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-4de8c2?style=for-the-badge&logo=python&logoColor=0c0f18" />
+<img src="https://img.shields.io/badge/Scikit--learn-4de8c2?style=for-the-badge&logo=scikitlearn&logoColor=0c0f18" />
+<img src="https://img.shields.io/badge/LightGBM-ffb454?style=for-the-badge&logoColor=0c0f18" />
+<img src="https://img.shields.io/badge/JavaScript-4de8c2?style=for-the-badge&logo=javascript&logoColor=0c0f18" />
+<img src="https://img.shields.io/badge/Streamlit-ffb454?style=for-the-badge&logo=streamlit&logoColor=0c0f18" />
+<img src="https://img.shields.io/badge/Leaflet-4de8c2?style=for-the-badge&logo=leaflet&logoColor=0c0f18" />
 
 </div>
 
 <br/>
 
-<table width="100%">
+### 🛰️ Active Missions
+
+<table>
 <tr>
-<td width="220" align="center" valign="top">
-
-<img src="https://github.com/yourusername.png" width="180" style="border-radius:12px;" />
-
+<td width="50%">
+<img src="./card-cropsense.svg" width="100%"/>
 </td>
-<td valign="top">
-
-## 🐾 PROFILE
-
----
-
-**NAME:** Prince
-
-**ROLE:** Student Developer
-
-**FOCUS:** AI / ML · Satellite Remote Sensing · Full-Stack Prototyping
-
-**CURRENT PROJECT:** Crop-Sense AI — ISRO Bharatiya Antariksh Hackathon 2026
-
-**STACK:** Python · JavaScript · React · LightGBM / Random Forest · Streamlit
-
+<td width="50%">
+<img src="./card-triage.svg" width="100%"/>
 </td>
 </tr>
 </table>
 
 <br/>
 
-## 🟧 SPOTLIGHT QUESTIONS
-
-<table width="100%">
-<tr>
-<td width="70" align="center">💬</td>
-<td><b>What are you building right now?</b></td>
-</tr>
-<tr>
-<td></td>
-<td>
-Crop-Sense AI — a multi-source satellite data fusion pipeline (Sentinel-1/2, Landsat, MODIS, EOS-4) for crop classification, phenological mapping, and irrigation decision support. Built for ISRO BAH 2026.
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="70" align="center">🚀</td>
-<td><b>What else have you shipped?</b></td>
-</tr>
-<tr>
-<td></td>
-<td>
-TRIAGE — an AI productivity companion built around an ER-triage metaphor, delivered as a self-contained HTML app with full documentation.
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📊 GITHUB STATS
+### 📡 Ground Control
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true" width="48%" />
+[![GitHub](https://img.shields.io/badge/GitHub-0c0f18?style=for-the-badge&logo=github&logoColor=4de8c2)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0c0f18?style=for-the-badge&logo=linkedin&logoColor=4de8c2)](https://linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-0c0f18?style=for-the-badge&logo=gmail&logoColor=ffb454)](mailto:you@example.com)
 
 </div>
 
 <br/>
 
 <div align="center">
-
-📫 Reach me: **your-email@example.com** &nbsp;|&nbsp; 🔗 **linkedin.com/in/yourusername**
-
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0c0f18&title_color=4de8c2&icon_color=ffb454&text_color=9fb3c8" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0c0f18&title_color=4de8c2&text_color=9fb3c8" width="40%"/>
 </div>
+
+
+
 
