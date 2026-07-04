@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--**Princy-2007-Cody/Princy-2007-Cody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile-->
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on leetcode
@@ -30,3 +30,90 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/banner.png" width="100%" alt="banner" />
+
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="220" align="center" valign="top">
+
+<img src="https://github.com/yourusername.png" width="180" style="border-radius:12px;" />
+
+</td>
+<td valign="top">
+
+## 🐾 PROFILE
+
+---
+
+**NAME:** Prince
+
+**ROLE:** Student Developer
+
+**FOCUS:** AI / ML · Satellite Remote Sensing · Full-Stack Prototyping
+
+**CURRENT PROJECT:** Crop-Sense AI — ISRO Bharatiya Antariksh Hackathon 2026
+
+**STACK:** Python · JavaScript · React · LightGBM / Random Forest · Streamlit
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🟧 SPOTLIGHT QUESTIONS
+
+<table width="100%">
+<tr>
+<td width="70" align="center">💬</td>
+<td><b>What are you building right now?</b></td>
+</tr>
+<tr>
+<td></td>
+<td>
+Crop-Sense AI — a multi-source satellite data fusion pipeline (Sentinel-1/2, Landsat, MODIS, EOS-4) for crop classification, phenological mapping, and irrigation decision support. Built for ISRO BAH 2026.
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="70" align="center">🚀</td>
+<td><b>What else have you shipped?</b></td>
+</tr>
+<tr>
+<td></td>
+<td>
+TRIAGE — an AI productivity companion built around an ER-triage metaphor, delivered as a self-contained HTML app with full documentation.
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GITHUB STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true" width="48%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+📫 Reach me: **your-email@example.com** &nbsp;|&nbsp; 🔗 **linkedin.com/in/yourusername**
+
+</div>
+
