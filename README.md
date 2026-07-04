@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Childish Gen-Z Developer
 
-- [My profile site](https://<your-username>.github.io/github profile/)
+- [My profile site](https://<your-username>.github.io/github-profile/)
 
 
 ## 🌐 Socials:
