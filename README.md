@@ -289,10 +289,10 @@ Design, build, and hand off complete web applications for clients — covering a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?Princy-2007-Cody&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?Princy-2007-Cody&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?Princy-2007-Cody&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="49%" />
 
 </div>
 
@@ -301,7 +301,7 @@ Design, build, and hand off complete web applications for clients — covering a
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?Princy-2007-Cody&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
 </div>
 
 ---
@@ -309,7 +309,7 @@ Design, build, and hand off complete web applications for clients — covering a
 ### 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?Princy-2007-Cody&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD" width="100%" />
 </div>
 
 ---
@@ -317,7 +317,7 @@ Design, build, and hand off complete web applications for clients — covering a
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Princy-2007-Cody/Princy-2007-Cody/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 ---
