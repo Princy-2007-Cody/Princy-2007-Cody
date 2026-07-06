@@ -58,28 +58,4 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Princy-2007-Cody&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=Princy-2007-Cody&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princy-2007-Cody&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="49%" />
-
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Princy-2007-Cody/Princy-2007-Cody/output/dist/stats.svg" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=Princy-2007-Cody&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="49%" />
-
-<img src="https://raw.githubusercontent.com/Princy-2007-Cody/Princy-2007-Cody/output/dist/top-langs.svg" width="49%" />
-
-</div>
-
----
