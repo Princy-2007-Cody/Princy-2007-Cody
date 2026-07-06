@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<!--
 <div align="center">
 
 ![Header](https://capsule-render.com/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=PRINCE%20%7C%20SOFTWARE%20ENGINEER&fontSize=40&fontColor=C9A7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descAlignY=58&descSize=18)
@@ -62,7 +61,7 @@ Here are some ideas to get you started:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Princy-2007-Cody&style=flat-square&color=7c3aed&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/Princy-2007-Cody?style=flat-square&color=8b5cf6&label=FOLLOWERS&labelColor=1E1B4B)
-![Stars](https://img.shields.io/github/stars/Princy-2007-COdy?style=flat-square&color=a78bfa&label=STARS&labelColor=1E1B4B)
+![Stars](https://img.shields.io/github/stars/Princy-2007-Cody?style=flat-square&color=a78bfa&label=STARS&labelColor=1E1B4B)
 
 </div>
 
@@ -154,7 +153,7 @@ Multi-source satellite data fusion and machine learning pipeline built for the *
 | **Performance** | Random Forest ~65% accuracy, LightGBM ~57% accuracy, top feature: `amplitude_doy` |
 | **Security** | Deterministic, reproducible experiments (fixed seed = 42) |
 | **Impact** | Instrument-panel dashboard with draggable phenology timeline, moisture stress gauge, and irrigation decision engine |
-| **Repository** | [github.com/YOUR_USERNAME/crop-sense-ai](https://github.com/YOUR_USERNAME/crop-sense-ai) |
+| **Repository** | [github.com/Princy-2007-Cody/crop-sense-ai](https://github.com/Princy-2007-Cody/crop-sense-ai) |
 
 Built as a full ML pipeline paired with a browser-based, cockpit-style dashboard that ingests live model output via CSV/JSON, enabling real-time visualization of phenology stage progression and irrigation recommendations for precision agriculture use cases.
 
@@ -173,7 +172,7 @@ A browser-based productivity application built entirely with HTML, CSS, and Java
 | **Performance** | Lightweight, instant-load single-page application |
 | **Security** | No external data transmission — fully local-first design |
 | **Impact** | Reframes task prioritization using an urgency/severity triage model for faster decision-making |
-| **Repository** | [github.com/YOUR_USERNAME/triage](https://github.com/YOUR_USERNAME/triage) |
+| **Repository** | [github.com/Princy-2007-Cody/triage](https://github.com/Princy-2007-Cody/triage) |
 
 Shipped as a complete, standalone productivity tool with accompanying professional documentation, demonstrating end-to-end product thinking from concept to polished deliverable.
 
@@ -192,7 +191,7 @@ A real-time 3D exploration game built with **React** and **Three.js**, featuring
 | **Performance** | Optimized geometry usage after resolving `THREE.CapsuleGeometry` compatibility issues |
 | **Security** | Client-side rendering, no backend attack surface |
 | **Impact** | NPC deer with wandering AI, collectible system, and a player stamina mechanic for exploration pacing |
-| **Repository** | [github.com/YOUR_USERNAME/dusk-hollow](https://github.com/YOUR_USERNAME/dusk-hollow) |
+| **Repository** | [github.com/Princy-2007-Cody/dusk-hollow](https://github.com/Princy-2007-Cody/dusk-hollow) |
 
 Diagnosed and resolved a core 3D geometry compatibility bug, replacing unsupported primitives with custom-built geometry solutions to maintain rendering stability across the experience.
 
@@ -211,7 +210,7 @@ A pair of foundational systems-level C++ projects focused on core logic, memory 
 | **Performance** | Real-time input handling and game-loop logic in Snake |
 | **Security** | Bounds-checked input validation and game-state handling |
 | **Impact** | Strengthened core algorithmic thinking and low-level control flow design |
-| **Repository** | [github.com/YOUR_USERNAME/cpp-projects](https://github.com/YOUR_USERNAME/cpp-projects) |
+| **Repository** | [github.com/Princy-2007-Cody/cpp-projects](https://github.com/Princy-2007-Cody/cpp-projects) |
 
 Built to reinforce fundamentals — game loops, state machines, and input validation — that carry directly into larger systems and product engineering work.
 
@@ -276,10 +275,10 @@ Design, build, and hand off complete web applications for clients — covering a
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1E1B4B?style=for-the-badge&logo=leetcode&logoColor=8B5CF6)](https://leetcode.com/YOUR_USERNAME)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1E1B4B?style=for-the-badge&logo=geeksforgeeks&logoColor=8B5CF6)](https://geeksforgeeks.org/user/YOUR_USERNAME)
-[![HackerRank](https://img.shields.io/badge/HackerRank-1E1B4B?style=for-the-badge&logo=hackerrank&logoColor=8B5CF6)](https://hackerrank.com/YOUR_USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-1E1B4B?style=for-the-badge&logo=codechef&logoColor=8B5CF6)](https://codechef.com/users/YOUR_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1E1B4B?style=for-the-badge&logo=leetcode&logoColor=8B5CF6)](https://leetcode.com/itzz_prince_075)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1E1B4B?style=for-the-badge&logo=geeksforgeeks&logoColor=8B5CF6)](https://geeksforgeeks.org/user/Princy-2007-Cody)
+[![HackerRank](https://img.shields.io/badge/HackerRank-1E1B4B?style=for-the-badge&logo=hackerrank&logoColor=8B5CF6)](https://hackerrank.com/Princy-2007-Cody)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1E1B4B?style=for-the-badge&logo=codechef&logoColor=8B5CF6)](https://codechef.com/users/Princy-2007-Cody)
 
 </div>
 
@@ -289,10 +288,10 @@ Design, build, and hand off complete web applications for clients — covering a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?Princy-2007-Cody&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?Princy-2007-Cody&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Princy-2007-Cody&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Princy-2007-Cody&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?Princy-2007-Cody&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princy-2007-Cody&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="49%" />
 
 </div>
 
@@ -301,7 +300,7 @@ Design, build, and hand off complete web applications for clients — covering a
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?Princy-2007-Cody&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Princy-2007-Cody&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
 </div>
 
 ---
@@ -309,7 +308,7 @@ Design, build, and hand off complete web applications for clients — covering a
 ### 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?Princy-2007-Cody&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Princy-2007-Cody&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD" width="100%" />
 </div>
 
 ---
@@ -352,7 +351,7 @@ Open To:
 
 [![Gmail](https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Princy-2007-Cody)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
@@ -366,7 +365,7 @@ Open To:
 ![Footer](https://capsule-render.com/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=150&section=footer)
 
 </div>
--->
 
 
 
+<
