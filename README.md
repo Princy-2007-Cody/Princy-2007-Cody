@@ -35,13 +35,13 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!--
+
 
 <div align="center">
 
 ![Header](https://capsule-render.com/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=PRINCE%20%7C%20SOFTWARE%20ENGINEER&fontSize=40&fontColor=C9A7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descAlignY=58&descSize=18)
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Princy-2007-Cody">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-powered+products+end-to-end;Precision+Agriculture+%7C+Machine+Learning;Full+Stack+%2B+Systems+Engineering;Turning+Hackathon+Ideas+Into+Shipped+Products" alt="Typing SVG" />
 </a>
 
@@ -56,13 +56,13 @@ Here are some ideas to get you started:
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Princy-2007-Cody)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=7c3aed&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=8b5cf6&label=FOLLOWERS&labelColor=1E1B4B)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&color=a78bfa&label=STARS&labelColor=1E1B4B)
+![Profile Views](https://komarev.com/ghpvc/?username=Princy-2007-Cody&style=flat-square&color=7c3aed&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Princy-2007-Cody?style=flat-square&color=8b5cf6&label=FOLLOWERS&labelColor=1E1B4B)
+![Stars](https://img.shields.io/github/stars/Princy-2007-COdy?style=flat-square&color=a78bfa&label=STARS&labelColor=1E1B4B)
 
 </div>
 
