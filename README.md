@@ -58,4 +58,16 @@ Here are some ideas to get you started:
 
 ---
 
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Princy-2007-Cody&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="60%" />
+
+</div>
+
+---
+
+---
+
 
