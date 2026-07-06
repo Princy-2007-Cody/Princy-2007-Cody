@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
+<!--
 <div align="center">
 
 ![Header](https://capsule-render.com/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=PRINCE%20%7C%20SOFTWARE%20ENGINEER&fontSize=40&fontColor=C9A7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descAlignY=58&descSize=18)
