@@ -1,17 +1,16 @@
-## Hi there 👋
+ ## HI! 💫(✿◡‿◡) 
 
 <!--**Princy-2007-Cody/Princy-2007-Cody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile-->
+> My name is Prince Narayan, A Curiositic Gen-Z Developer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on leetcode
-- 🌱 I’m currently learning WEB DEVELOPMENT / C++
-- 👯 I’m looking to collaborate on GITHUB
+- 🔭 I’m currently working on `leetcode`.
+- 🌱 I’m currently learning `WEB DEVELOPMENT / C++`
+- 👯 I’m looking to collaborate on `GITHUB`
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Anything you like to ask
-- 📫 How to reach me: On my Instagram account
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a Childish Gen-Z Developer
+- 📫 How to reach me: `On my Instagram account`
+- 😄 Pronouns: `He/Him`
+- ⚡ Fun fact: I am a `Childish Gen-Z` Developer
 
 <!--
 - [My profile site](https://<your-username>.github.io/github-profile/)
