@@ -82,5 +82,13 @@ Here are some ideas to get you started:
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Princy-2007-Cody/Princy-2007-Cody/output/dist/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+---
+
 
 
