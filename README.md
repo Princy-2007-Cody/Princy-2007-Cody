@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning `WEB DEVELOPMENT / C++`
 - 👯 I’m looking to collaborate on `GITHUB`
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Anything you like to ask
-- 📫 How to reach me: `On my Instagram account`
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
 - 😄 Pronouns: `He/Him`
 - ⚡ Fun fact: I am a `Childish Gen-Z` Developer
 
