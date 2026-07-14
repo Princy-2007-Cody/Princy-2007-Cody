@@ -58,7 +58,7 @@
 <!--![Linux](https://img.shields.io/badge/-Linux-1E1B4B?style=flat-square&logo=linux&logoColor=8B5CF6)-->
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tailwind,git,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tailwind,react,git,vercel&theme=dark" />
 </div>
 
 ---
