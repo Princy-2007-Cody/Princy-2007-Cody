@@ -63,7 +63,7 @@
 </div>
 
 ---
-
+<!--
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -73,7 +73,7 @@
 </div>
 
 ---
-
+-->
 
 ### 📈 Contribution Activity
 
