@@ -1,7 +1,7 @@
  ## HI! 💫(✿◡‿◡) 
 
 <!--**Princy-2007-Cody/Princy-2007-Cody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile-->
-> My name is Prince Narayan, A Curiositic Gen-Z Developer hpoing to build my own AI, games like AAA games, 3D world games and much more.
+> My name is Prince Narayan, A Curiositic Gen-Z Developer hoping to build my own AI, games like AAA games, 3D world games and much more.
 
 - 🔭 I’m currently working on `leetcode`.
 - 🌱 I’m currently learning `WEB DEVELOPMENT / C++`
